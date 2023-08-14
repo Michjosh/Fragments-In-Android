@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">AndroidFragments</string>
+
+        <string-array name="african_countries">
+            <item>Egypt</item>
+            <item>Nigeria</item>
+            <item>South Africa</item>
+            <item>Kenya</item>
+            <item>Ethiopia</item>
+        </string-array>
+
+        <string-array name="country_details">
+            <item>Details about Egypt.</item>
+            <item>Details about Nigeria.</item>
+            <item>Details about South Africa.</item>
+            <item>Details about Kenya.</item>
+            <item>Details about Ethiopia.</item>
+        </string-array>
+
+
+        <string-array name="country_populations">
+            <item>Population of Egypt: Approximately 104 million people.</item>
+            <item>Population of Nigeria: Over 206 million people.</item>
+            <item>Population of South Africa: Around 60 million people.</item>
+            <item>Population of Kenya: Over 53 million people.</item>
+            <item>Population of Ethiopia: More than 120 million people.</item>
+        </string-array>
+
+        <string-array name="country_languages">
+            <item>Language of Egypt: Arabic.</item>
+            <item>Language of Nigeria: English, along with numerous indigenous languages.</item>
+            <item>Language of South Africa: 11 official languages, including Zulu, Xhosa, Afrikaans, and English.</item>
+            <item>Language of Kenya: Swahili and English.</item>
+            <item>Language of Ethiopia: Amharic, along with many other regional languages.</item>
+        </string-array>
+
+        <string-array name="country_states">
+            <item>Number of states in Egypt: 27 governorates.</item>
+            <item>Number of states in Nigeria: 36 states and 1 Federal Capital Territory.</item>
+            <item>Number of states in South Africa: 9 provinces.</item>
+            <item>Number of states in Kenya: 47 counties.</item>
+            <item>Number of states in Ethiopia: 10 regional states and 2 chartered cities.</item>
+
+        </string-array>
+
+        <string-array name="country_gdps">
+            <item>GDP of Egypt: Approximately $394 billion (nominal).</item>
+            <item>GDP of Nigeria: Approximately $450 billion (nominal).</item>
+            <item>GDP of South Africa: Approximately $366 billion (nominal).</item>
+            <item>GDP of Kenya: Approximately $95 billion (nominal).</item>
+            <item>GDP of Ethiopia: Approximately $96 billion (nominal).</item>
+
+        </string-array>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+
+</resources>
